@@ -1,2 +1,0 @@
-# javascript
-code with dhoni
